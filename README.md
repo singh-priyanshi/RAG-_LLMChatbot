@@ -81,4 +81,3 @@ This LangFlow template provides an end-to-end pipeline for managing user inputs,
 
 ![LangFlow Template](https://github.com/user-attachments/assets/f42dd2cb-e638-4ce2-8101-ac69cc641b83)
 
-<img width="1792" alt="image" src="https://github.com/user-attachments/assets/f42dd2cb-e638-4ce2-8101-ac69cc641b83">
